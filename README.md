@@ -25,7 +25,7 @@ The project will continue to be develop on a new private repo.
 ## Running the project
 
 Follow the below rules
-- Clone the project - ``
+- Clone the project - `git clone https://github.com/DavidLopezTovar2/jobky.git`
 - From the root file install all dependencies `npm install`
 - As well as in the client folder `npm install`
 - Should have a mongoDB installed in your computer to run the backend
