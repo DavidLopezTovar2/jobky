@@ -29,6 +29,6 @@ Follow the below rules
 - From the root file install all dependencies `npm install`
 - As well as in the client folder `npm install`
 - Should have a mongoDB installed in your computer to run the backend
-- Run the backend from the root file `npm run start``
+- Run the backend from the root file `npm run start`
 - Run the client folder `npm run start`
 
