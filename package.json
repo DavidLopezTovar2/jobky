@@ -1,0 +1,24 @@
+{
+  "name": "jobky",
+  "version": "1.0.0",
+  "description": "Base de datos llena de ofertas de empleo CRUD sobre estas ofertas laborales Formulario de registro de oferta de empleo Una lista en la cual se puede visualizar todas las ofertas laborales Dentro de esta lista cuando se selecciona una oferta",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.4.0",
+    "mongoose-unique-validator": "^3.1.0",
+    "nodemon": "^2.0.18"
+  }
+}
